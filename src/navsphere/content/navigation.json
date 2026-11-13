@@ -148,6 +148,222 @@
           "description": "edge 插件上传地址",
           "icon": "/assets/favicon_1768145646425.png",
           "enabled": true
+        },
+        {
+          "id": "1_bm001",
+          "title": "www.ningmengyun.com",
+          "href": "https://www.ningmengyun.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm017",
+          "title": "Greasy Fork",
+          "href": "https://greasyfork.org/zh-CN",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm034",
+          "title": "年报",
+          "href": "https://amr.sz.gov.cn/xyjggs.webui/xyjggs/index.aspx",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm035",
+          "title": "国家企业信用信息公示系统",
+          "href": "https://www.gsxt.gov.cn/index.html",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm036",
+          "title": "商事主体登记注册(变更登记一窗通)——深圳市市场监督管理局网站",
+          "href": "http://amr.sz.gov.cn/xxgk/qt/ztlm/ssdjzc/index.html",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm037",
+          "title": "中华人民共和国海关总署",
+          "href": "http://www.customs.gov.cn/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm038",
+          "title": "中国国际贸易单一窗口",
+          "href": "https://www.singlewindow.cn/#/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm039",
+          "title": "深圳公司进出口权如何办理",
+          "href": "https://93825523.b2b.11467.com/news/2205452.asp",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm040",
+          "title": "海关企业注册登记",
+          "href": "http://www.xinchuang0537.com/jnxinchuang/vip_doc/26255865.html",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm041",
+          "title": "企业登记档案查询-深圳市市场监督管理局",
+          "href": "https://amr.sz.gov.cn/ARCMIS.WebUI/HomePage.aspx",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm042",
+          "title": "铁路12306积分延期助手 - 晚点列车实时监控",
+          "href": "https://12306.cjh0613.com/zh/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm154",
+          "title": "Linux tar 命令",
+          "href": "https://www.runoob.com/linux/linux-comm-tar.html",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm155",
+          "title": "实验 - 使用 Microsoft Office 集成 - Training | Microsoft Learn",
+          "href": "https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm156",
+          "title": "Awesome-selfhosted/awesome-selfhosted：可以托管在您自己的服务器上的自由软件网络服务和 Web 应用程序的列表",
+          "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm157",
+          "title": "MultCloud | 专注跨网盘文件传输",
+          "href": "https://www.multcloud.com/cn/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm158",
+          "title": "Gridzzly.com - Make your own grid paper",
+          "href": "https://gridzzly.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm159",
+          "title": "胰腺癌：从确诊到死亡不足5个月！这些症状，都是它的敲门声-今日头条",
+          "href": "https://www.toutiao.com/article/6898569745805656589/?log_from=d54a1a77ec834_1661181583422",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm160",
+          "title": "Highest Implied Volatility - Barchart.com",
+          "href": "https://www.barchart.com/options/highest-implied-volatility/stocks",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm161",
+          "title": "夸克盘盘-一个免费分享夸克网盘资源的网站",
+          "href": "https://quarkpanpan.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm162",
+          "title": "看美剧学英语|摩登家庭第1季24集全，视频+剧本+笔记+音频，看美剧学英语，最适合学英语的美剧持续更新，口语听力跟读_哔哩哔哩_bilibili",
+          "href": "https://www.bilibili.com/video/BV1rEcBeMEUV/?vd_source=c59e69eb5637702f4f4af78f60a90a19",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm163",
+          "title": "【摩登家庭|第一季（1-9）】学习笔记|中英字幕|学英语_哔哩哔哩_bilibili",
+          "href": "https://www.bilibili.com/video/BV1Yr4y1w7Hq/?vd_source=c59e69eb5637702f4f4af78f60a90a19",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm164",
+          "title": "Sleazyfork",
+          "href": "https://sleazyfork.org/zh-CN/scripts",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm165",
+          "title": "MacHead：碎屏 MacBook 变身无头服务器（免费开源）",
+          "href": "https://headlessmac.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "1_bm166",
+          "title": "GitHub 国内加速下载完全指南：高效、一劳永逸 | 二翁集",
+          "href": "https://erweng.com/posts/github-acceleration-guide/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -256,6 +472,78 @@
               "href": "https://aistudio.google.com/prompts/new_chat",
               "description": "Google AI Studio",
               "icon": "/assets/favicon_1764762488719.webp"
+            },
+            {
+              "id": "9_bm071",
+              "title": "纳米AI搜索",
+              "href": "https://www.n.cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "9_bm072",
+              "title": "秘塔AI搜索",
+              "href": "https://metaso.cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "9_bm073",
+              "title": "RawChat公益站点",
+              "href": "https://sharedchat.fun/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "9_bm074",
+              "title": "Google NotebookLM",
+              "href": "https://notebooklm.google.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "9_bm075",
+              "title": "微信公众号驱动脚本封面图生成",
+              "href": "https://yuanbao.tencent.com/chat/naQivTmsDa/77e0b29b-db2b-4a3b-8068-90256549065d",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "9_bm076",
+              "title": "椒图AI - 中文AI修图神器，一句话搞定复杂修图、电商设计、宣传海报、虚拟试衣、抠图扩图、照片修复！",
+              "href": "https://jiaotu.ai/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "9_bm077",
+              "title": "deepseek-v3.2 Model by Deepseek-ai | NVIDIA NIM",
+              "href": "https://build.nvidia.com/deepseek-ai/deepseek-v3_1-terminus",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "9_bm078",
+              "title": "千问-阿里 AI 助手",
+              "href": "https://www.qianwen.com/chat/workbench",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
             }
           ]
         },
@@ -1229,6 +1517,402 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.webp",
               "enabled": true
+            },
+            {
+              "id": "2_bm110",
+              "title": "解锁PDF - 在线解锁你的PDF文件",
+              "href": "https://www.pdf2go.com/zh/unlock-pdf",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm111",
+              "title": "在线markdown编辑器_微信公众号markdown排版工具",
+              "href": "https://markdown.com.cn/editor/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm112",
+              "title": "regex101: build, test, and debug regex",
+              "href": "https://regex101.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm113",
+              "title": "Composerize",
+              "href": "https://www.composerize.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm114",
+              "title": "Docker Run 转 docker-compose 神器：一键迁移，简化容器编排",
+              "href": "https://www.ol-tools.com/docker-run-to-docker-compose-converter",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm115",
+              "title": "Road 2 Coding",
+              "href": "https://r2coding.com/#/README",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm116",
+              "title": "聚合图床 - 微博图床 - 免费图床 - 孟坤工具箱网页版",
+              "href": "http://tool.mkblog.cn/tuchuang/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm117",
+              "title": "File to Base64 | Base64 Encode | Base64 Converter | Base64",
+              "href": "https://base64.guru/converter/encode/file",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm118",
+              "title": "Rename - 批量文件重命名工具",
+              "href": "https://rename.jgrass.xyz/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm119",
+              "title": "Base64 在线编码解码 | Base64 加密解密 - Base64.us",
+              "href": "https://base64.us/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm120",
+              "title": "工图网-PPT-文档-表格办公文件极速下载",
+              "href": "http://www.900ppt.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm121",
+              "title": "在线转换图像文件",
+              "href": "https://www.aconvert.com/cn/image/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm122",
+              "title": "RED小红书无水印下载 - Download Panda - DLPanda",
+              "href": "https://dlpanda.com/zh-CN/xhs",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm123",
+              "title": "矢量图标 - Yesicon",
+              "href": "https://yesicon.app/simple-icons/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm124",
+              "title": "大瑜的AI编程实战 - 10年程序员的AI转型之路",
+              "href": "https://dayulab.com/tools",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm125",
+              "title": "课程表生成器",
+              "href": "https://aiqji.com/kcbscq.html",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm126",
+              "title": "在线抠图软件_图片去除背景 | remove.bg – remove.bg",
+              "href": "https://www.remove.bg/zh",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm127",
+              "title": "免费更改背景颜色和去除背景 | Photoroom",
+              "href": "https://www.photoroom.com/zh/tools/change-background-color",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm128",
+              "title": "PhotoXie 免费在线图片PS编辑工具网页版",
+              "href": "https://ps.xieniao.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm129",
+              "title": "Photopea | Online Photo Editor",
+              "href": "https://www.photopea.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm130",
+              "title": "在线tcping_tcp延迟测试",
+              "href": "https://www.itdog.cn/tcping_ipv6/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm131",
+              "title": "Online Audio Converter - 将音频文件转换为MP3、WAV、MP4 、M4A、OGG或iPhone铃声",
+              "href": "https://online-audio-converter.com/cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm132",
+              "title": "MPEG转MP4 - 免费在线将MPEG文件转换成MP4",
+              "href": "https://cdkm.com/cn/mpeg-to-mp4",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm133",
+              "title": "30tool-可能是最好的工具网",
+              "href": "https://www.30aitool.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm134",
+              "title": "一个木函 - 多功能效率工具箱",
+              "href": "https://ol.woobx.cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm135",
+              "title": "谷歌搜索引擎高级搜索、命令大全表格总结(完整示例说明) - EvanLi的博客",
+              "href": "https://evanli.github.io/blog/2019/01/26/advanced-google-search-engine-command/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm136",
+              "title": "常用软件的静默安装参数，双击自动安装-腾讯云开发者社区-腾讯云",
+              "href": "https://cloud.tencent.com/developer/article/1538138",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm137",
+              "title": "抖音快手小红书TikTok短视频免费去水印解析下载工具网站",
+              "href": "https://tiantianjiexi.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm138",
+              "title": "短网址 - URLC.CN短网址,短网址生成,网址缩短,免费提供API接口生成,活码二维码生成,域名拦截检测",
+              "href": "https://www.urlc.cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm139",
+              "title": "Speech to Text Online - Type With Your Voice! - Free online voice to Text",
+              "href": "https://www.textfromtospeech.com/en/voice-to-text/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm140",
+              "title": "二维码美化系统_在线自定义排版二维码_草料二维码",
+              "href": "https://mh.cli.im/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm141",
+              "title": "Markdown 转 HTML 转换器 - 免费在线工具",
+              "href": "https://d1tools.com/tools/convert-markdown-to-html/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm142",
+              "title": "File Transfer - 文件传输",
+              "href": "https://transfer.52python.cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm143",
+              "title": "从视频中提取硬字幕 - SubExtractor",
+              "href": "https://www.subextractor.com/zh/extract",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm144",
+              "title": "知乎文章复制_知乎文案提取_知乎图片提取-飞鱼文本解析",
+              "href": "https://www.feiyudo.com/etext/zhihu",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm145",
+              "title": "免费在线裁剪 PDF --- Crop PDF Online Free",
+              "href": "https://www.pdfgear.com/crop-pdf/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm146",
+              "title": "Short.io — 短链",
+              "href": "https://app.short.io/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm147",
+              "title": "YouTube高清视频下载 - tubedown.cn",
+              "href": "https://tubedown.cn/youtube",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm148",
+              "title": "YouTube MP3 Playlist Downloader Online - Loader.to(1)",
+              "href": "https://en.loader.to/4/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm149",
+              "title": "YT Video Detail - SSYouTube.online",
+              "href": "https://ssyoutube.online/yt-video-detail/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm150",
+              "title": "(71 封私信 / 2 条消息) 2025年7个Youtube在线下载网站 - 知乎",
+              "href": "https://zhuanlan.zhihu.com/p/695680415",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm151",
+              "title": "网络剪贴板 | 云剪切板与匿名粘贴板，支持临时文件分享 - clipboard.im",
+              "href": "https://clipboard.im/zh-CN",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm152",
+              "title": "Catbox",
+              "href": "https://catbox.moe/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm153",
+              "title": "在线搞定离线包 - lixian.online",
+              "href": "https://lixian.online/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
             }
           ],
           "enabled": true
@@ -1344,6 +2028,141 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "bms---download",
+          "title": "下载解析",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "2_bm090",
+              "title": "快速免费下载Youtube字幕 - DownSub",
+              "href": "https://downsub.com/zh/site/youtube/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm091",
+              "title": "如何在线下载Google Play里面的应用 - 知乎",
+              "href": "https://zhuanlan.zhihu.com/p/87569815",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm092",
+              "title": "在线下载 Twitter 视频 | Twitter 下载器 #1 - SaveTwitter",
+              "href": "https://savetwitter.net/zh-cn",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm093",
+              "title": "Twitter怎么下载视频，5种保存推特视频的方法/教程 - 南国之恋 - 博客园",
+              "href": "https://www.cnblogs.com/cinemaparadiso/p/17348481.html",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm094",
+              "title": "SaveTube - Best Online Video Downloader ( 4K, 8K, FHD, 1080p, HDR )",
+              "href": "https://save.tube/en34/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm095",
+              "title": "智能电视固件_魔百和固件_电视盒子第三方固件下载_小白刷机网",
+              "href": "http://www.xiaobaishuaji.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm096",
+              "title": "twitter downloader video - zh-CN9904",
+              "href": "https://www.twitterfk.com/zh-CN9904",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm097",
+              "title": "在线音频处理丨剪辑丨编辑丨转换-免费MP3转换 - 100Audio",
+              "href": "https://100audio.com/sound/100audio_editor/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm098",
+              "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑",
+              "href": "https://bilibili.iiilab.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm099",
+              "title": "MP4 to AAC | CloudConvert",
+              "href": "https://cloudconvert.com/mp4-to-aac",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm100",
+              "title": "Microsoft Store - Generation Project (v1.2.3) [by @rgadguard & mkuba50]",
+              "href": "https://store.rg-adguard.net/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm101",
+              "title": "在APKPure使用免费在线APK下载器下载APK到安卓",
+              "href": "https://apkpure.com/cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm102",
+              "title": "小红书去水印 - 小红书无水印视频下载，图集下载",
+              "href": "https://dy.kukutool.com/xiaohongshu",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "2_bm103",
+              "title": "B站(bilibili)视频解析工具_B站视频去水印下载_B站视频下载保存(支持B站视频在线下载)",
+              "href": "https://www.xiazaitool.com/blbl",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
@@ -1570,6 +2389,784 @@
           ]
         }
       ]
+    },
+    {
+      "id": "bm-resource-search",
+      "title": "资源搜索",
+      "icon": "Star",
+      "items": [
+        {
+          "id": "bm-resource-search_bm002",
+          "title": "喵狸盘搜 - 云盘资源搜索",
+          "href": "https://www.alipansou.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm003",
+          "title": "大盘搜，大大的盘任你搜",
+          "href": "https://dapanso.com/search?keyword=&page=1&type=",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm004",
+          "title": "8个网盘资源搜索神器！ - 知乎",
+          "href": "https://zhuanlan.zhihu.com/p/461020860",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm005",
+          "title": "网盘搜索,就上盘搜搜 - 好用的百度云搜索引擎",
+          "href": "https://pansoso.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm006",
+          "title": "云盘4K-综合网盘搜索",
+          "href": "https://www.codelicence.cn/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm007",
+          "title": "阿里云盘搜索",
+          "href": "https://alipanx.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm008",
+          "title": "爱盼：资源随心，娱乐无限",
+          "href": "https://www.aipan.me/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm009",
+          "title": "bt search engine - btfox",
+          "href": "https://btfox2.org/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm010",
+          "title": "无极磁链 ØMagnet - 磁链分享如此简单 0mag磁力搜索",
+          "href": "https://xcili.net/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm011",
+          "title": "天堂磁力",
+          "href": "https://tt6.ttcl.cc/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm012",
+          "title": "学而思大阅读_夸克网盘_阿里云盘_百度网盘_迅雷下载_UC网盘 - 哪吒搜索",
+          "href": "https://nzso.cc/%E5%AD%A6%E8%80%8C%E6%80%9D%E5%A4%A7%E9%98%85%E8%AF%BB",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm013",
+          "title": "SkrBT - 专业的种子搜索、磁力链接搜索引擎",
+          "href": "https://skrbtgb.top/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm014",
+          "title": "SkrBT - 专业的种子搜索、磁力链接搜索引擎",
+          "href": "https://skrbtso.top/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-resource-search_bm015",
+          "title": "SkrBT最新地址发布页",
+          "href": "https://soskr.net/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "bm-ops-network",
+      "title": "运维与网络",
+      "icon": "Star",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "bms-ops-network-recovery",
+          "title": "数据恢复",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "bm-ops-network_bm016",
+              "title": "EasyTier Dashboard",
+              "href": "https://easytier.cn/web#/h/aHR0cHM6Ly9jb25maWctc2VydmVyLmVhc3l0aWVyLmNu",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "bms-ops-network-router",
+          "title": "软路由与固件",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "bm-ops-network_bm063",
+              "title": "【2021-10-05更新】支持无线OpenWrt X86_64固件内核5.10集合乳酸菌和常用插件。 - 软路由，x86系统，openwrt(x86) 等 - 恩山无线论坛 - Powered by Discuz!",
+              "href": "https://www.right.com.cn/forum/thread-3705778-1-1.html",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm064",
+              "title": "给原版的openwrt安装Passwall【图文】_ganzy_51CTO博客",
+              "href": "https://blog.51cto.com/ganzy/2585435",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm065",
+              "title": "如何在 OpenWrt 上安装和卸载 passwall 科学上网插件教程 - XTrojan黑科技",
+              "href": "https://xtrojan.cc/client/openwrt-passwall-plugin.html",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm066",
+              "title": "Managing Printers from the Command Prompt in Windows 10 / 8.1 | Windows OS Hub",
+              "href": "http://woshub.com/manage-printers-and-drivers-from-the-command-line-in-windows-8/#acc-0",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm067",
+              "title": "矿神",
+              "href": "https://imnks.com/3143.html",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm068",
+              "title": "言小五系列教程之基于L大OpenWrt源码编译软路由固件(上) - 那束陽光",
+              "href": "https://eveaz.com/1116.html",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm069",
+              "title": "VMware 产品下载汇总 - sysin | SYStem INside | 数据中心系统内幕",
+              "href": "https://sysin.org/blog/vmware/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm070",
+              "title": "OpenWrt软路由固件下载与在线定制编译",
+              "href": "https://openwrt.ai/?target=x86%2F64&id=generic",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "bms-ops-network-vps",
+          "title": "VPS 与测评",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "bm-ops-network_bm079",
+              "title": "我不是咕咕鸽——VPS折腾不完全记录",
+              "href": "https://blog.laoda.de/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm080",
+              "title": "国外主机测评-国外VPS，国外服务器，国外云服务器，测评及优惠码",
+              "href": "https://www.zhujiceping.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm081",
+              "title": "jcnf的导航站 | 只谈实用不谈技术",
+              "href": "https://ybfl.xyz/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm082",
+              "title": "【遥遥领先】黑科技！垃圾VPS线路网速大幅提升！第二代hysteria节点搭建教程，歇斯底里为什么可以提升网速？windows/ios/android手机移动端使用方式，sing-box配置hy2方式 - 科学上网 技术分享",
+              "href": "https://bulianglin.com/archives/hysteria2.html",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm083",
+              "title": "免费 DDNS |现在的 DNS --- Free DDNS | Now-DNS",
+              "href": "https://now-dns.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm084",
+              "title": "ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想",
+              "href": "https://www.itdog.cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm085",
+              "title": "新买服务器VPS，如何做安全加固、性能优化？ | 自由超",
+              "href": "https://freechao.com/9213.html",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm086",
+              "title": "VMISS",
+              "href": "https://app.vmiss.com/clientarea.php?action=productdetails&id=50790",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm087",
+              "title": "Client Area - RackNerd LLC",
+              "href": "https://my.racknerd.com/clientarea.php?action=productdetails&id=454808",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm088",
+              "title": "ByteVirt LLC",
+              "href": "https://bytevirt.com/clientarea.php?action=productdetails&id=41534",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-ops-network_bm089",
+              "title": "TCP port check from 170+ locations | ping.pe",
+              "href": "https://tcp.ping.pe/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "bm-learning",
+      "title": "学习阅读",
+      "icon": "Star",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "bms-learning-ebooks",
+          "title": "电子书与书库",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "bm-learning_bm018",
+              "title": "史料 - 小特书站 免费图书 pdf epub mobi txt 下载",
+              "href": "https://ttbooks.qciss.net/cat/117",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm019",
+              "title": "百度网盘搜索引擎-百度云盘搜索-V盘搜(vpansou.com)",
+              "href": "http://www.vpansou.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm020",
+              "title": "有声小说,有声读物,听海量免费有声书就来趣音网",
+              "href": "http://www.qvyin.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm021",
+              "title": "有声小说_在线听书_有声读物_恋听网",
+              "href": "https://ting55.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm022",
+              "title": "一般圖書館",
+              "href": "https://library.proletarian.me/My_library_table.php",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm023",
+              "title": "数字图书馆。搜索书籍。免费下载书籍",
+              "href": "https://lib.comdot.xyz/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm024",
+              "title": "Z-Library Helper | ZLibrary Helper | Zlibrary 助手 | Z-Library 无法访问的终极解决方案",
+              "href": "https://www.zhelper.net/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm025",
+              "title": "评书网-评书在线收听_免费评书下载网站_专业的评书网",
+              "href": "https://www.zgpingshu.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm026",
+              "title": "Delia's 藏书阁 · 真听真看真感受",
+              "href": "https://lib.delia.love/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm027",
+              "title": "自学吧–你的学习资源库",
+              "href": "https://www.zshare8.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm028",
+              "title": "Z-library项目 - 官方 Z-lib镜像网址及入口.免费下载电子书",
+              "href": "https://z-library-zlibgs.github.io/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm029",
+              "title": "阿里云盘分享有声书",
+              "href": "https://www.aliyundrive.com/s/VMHQU17zCEf",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm030",
+              "title": "枭起青壤|晋江大神尾鱼著|多人有声剧-夸克资源吧-海量夸克网盘资源!",
+              "href": "https://pan168.cn/resource/detail/134afe5877b0405889575b25d189fdd2",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm031",
+              "title": "夸克网盘分享",
+              "href": "https://pan.quark.cn/s/b9fbf8ec7719#/list/share",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm032",
+              "title": "八十年代訪談錄 ... XB-HK - 安娜的档案",
+              "href": "https://zh.annas-archive.org/md5/b1463aa7bc03ee6a1da661a9ccdbccc4",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm033",
+              "title": "第一故事 - 单田芳评书网,评书打包下载,评书下载mp3",
+              "href": "https://www.yigushi.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "bms-learning-study",
+          "title": "学习站点",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "bm-learning_bm104",
+              "title": "大学资源网 - 在线教育",
+              "href": "http://www.dxzy163.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm105",
+              "title": "English Vocabulary Test",
+              "href": "https://preply.com/en/learn/english/test-your-vocab",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm106",
+              "title": "数橙科技",
+              "href": "https://ctb.91chengguo.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "bms-learning-exam",
+          "title": "试卷与教育",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "bm-learning_bm107",
+              "title": "第一试卷网",
+              "href": "https://www.shijuan1.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm108",
+              "title": "小荷作文网-小学作文-初中作文-高中作文-作文精选",
+              "href": "https://www.zww.cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            },
+            {
+              "id": "bm-learning_bm109",
+              "title": "国家中小学智慧教育平台",
+              "href": "https://www.zxx.edu.cn/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "bm-software",
+      "title": "软件资源",
+      "icon": "Star",
+      "items": [
+        {
+          "id": "bm-software_bm043",
+          "title": "MSDN, 我告诉你 - 做一个安静的工具站",
+          "href": "https://msdn.itellyou.cn/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm044",
+          "title": "HelloWindows.cn – 精校 完整 极致 Windows系统下载仓储站",
+          "href": "https://hellowindows.cn/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm045",
+          "title": "系统迷 - 关注科技互联网，分享精品软件、教程和资源",
+          "href": "https://www.xitmi.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm046",
+          "title": "系统必备 - 423Down",
+          "href": "https://www.423down.com/win11",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm047",
+          "title": "【新提醒】顶渲论坛",
+          "href": "https://www.toprender.com/forum.php",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm048",
+          "title": "果核剥壳 - 互联网的净土",
+          "href": "https://www.ghxi.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm049",
+          "title": "大眼仔旭 - 专注视频剪辑、解压、录屏、思维导图等办公资源分享",
+          "href": "http://dayanzai.me/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm050",
+          "title": "精品MAC应用分享",
+          "href": "https://xclient.info/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm051",
+          "title": "Digit77.com | 海量精品Mac应用免费分享",
+          "href": "https://www.digit77.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm052",
+          "title": "麦氪搜(iMacSO.com)-我们致力于让您的Mac更有价值 ！",
+          "href": "https://www.imacso.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm053",
+          "title": "Chrome浏览器快捷键大全 - 知乎",
+          "href": "https://zhuanlan.zhihu.com/p/42281412",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm054",
+          "title": "❤️iOS免费多开安装包❤️ | 宝哥网盘",
+          "href": "https://pan.baoge.vip/%E2%9D%A4%EF%B8%8FiOS%E5%85%8D%E8%B4%B9%E5%A4%9A%E5%BC%80%E5%AE%89%E8%A3%85%E5%8C%85%E2%9D%A4%EF%B8%8F",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm055",
+          "title": "主页 | DumpApp 网盘",
+          "href": "https://pan.dumpapp.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm056",
+          "title": "Appstorrent - Игры и программы для macOS",
+          "href": "https://appstorrent.ru/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm057",
+          "title": "MODYOLO - Free MOD APK Game & Premium APP for Android",
+          "href": "https://modyolo.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm058",
+          "title": "LITEAPKS - Free APK & Mod - Download for Android",
+          "href": "https://liteapks.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm059",
+          "title": "MacKed - 专注于mac软件分享与下载",
+          "href": "https://macked.app/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm060",
+          "title": "IPA资源网_IPA宝库-iPhone/iPad IPA软件安装包下载与教程分享,又叫IPA游戏|IOS网盘",
+          "href": "https://www.ipazyw.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm061",
+          "title": "Decrypt IPA Store",
+          "href": "https://decrypt.day/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "bm-software_bm062",
+          "title": "HD设计网_Sketchup模型材贴图",
+          "href": "https://www.hdnnn.com/",
+          "description": "",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
     }
   ]
 }
