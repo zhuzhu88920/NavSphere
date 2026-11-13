@@ -13,6 +13,12 @@ pattern = "nav.xxl.cc.cd"
 zone_name = "xxl.cc.cd"
 custom_domain = true
 
+# 该 zone 存在通配路由 *.xxl.cc.cd/* -> ps1-redirect，
+# 它会抢在 Custom Domain 前面，故补一条更精确的路由指向本 Worker。
+[[routes]]
+pattern = "nav.xxl.cc.cd/*"
+zone_name = "xxl.cc.cd"
+
 [vars]
 GITHUB_OWNER = "zhuzhu88920"
 GITHUB_REPO = "NavSphere"

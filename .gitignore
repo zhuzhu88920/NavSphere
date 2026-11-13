@@ -56,3 +56,6 @@ build/cache/
 /.open-next/
 /open-next.tar.gz
 /cloudflare-env.d.ts
+
+# WorkBuddy 项目本地数据（不进公开仓库）
+/.workbuddy/
