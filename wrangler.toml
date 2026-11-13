@@ -25,3 +25,6 @@ GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://nav.xxl.cc.cd"
 NEXT_PUBLIC_API_URL = "https://nav.xxl.cc.cd"
+# next-auth v5 (Auth.js) on non-Vercel hosts requires an explicit trusted host
+AUTH_URL = "https://nav.xxl.cc.cd"
+AUTH_TRUST_HOST = "true"
