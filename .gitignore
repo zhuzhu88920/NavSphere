@@ -59,3 +59,6 @@ build/cache/
 
 # WorkBuddy 项目本地数据（不进公开仓库）
 /.workbuddy/
+
+# wrangler 部署临时产物
+/.wrangler/
