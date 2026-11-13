@@ -1,8 +1,6 @@
 import { NextResponse } from 'next/server'
 import { getFileContent } from '@/lib/github'
 import { NavigationCategory, NavigationItem, NavigationData } from '@/types/navigation'
-export const runtime = 'edge'
-
 export async function GET() {
   try {
     // 动态读取最新的导航数据，而不是静态导入

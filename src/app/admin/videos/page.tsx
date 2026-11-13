@@ -1,7 +1,5 @@
 'use client'
 
-export const runtime = 'edge'
-
 import { useState } from "react"
 import { Button } from "@/registry/new-york/ui/button"
 import { VideoCategoryCard } from "./components/VideoCategoryCard"

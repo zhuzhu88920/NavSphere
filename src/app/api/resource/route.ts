@@ -4,10 +4,6 @@ import { commitFile, getFileContent } from '@/lib/github'
 import type { ResourceMetadata } from '@/types/resource-metadata'
 import { uint8ArrayToBase64 } from '@/lib/buffer-utils'
 
-export const runtime = 'edge'
-
-
-
 export async function GET() {
     try {
         const data = await getFileContent('src/navsphere/content/resource-metadata.json') as ResourceMetadata

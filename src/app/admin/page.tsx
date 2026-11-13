@@ -1,6 +1,4 @@
 'use client'
-export const runtime = 'edge'
-
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Settings, Menu, Database, Folders, FolderTree, Globe, RefreshCw } from 'lucide-react'

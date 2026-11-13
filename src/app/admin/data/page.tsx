@@ -1,6 +1,4 @@
 'use client'
-export const runtime = 'edge'
-
 import { useState, useEffect } from 'react'
 import { NavigationItem, NavigationSubItem, NavigationCategory } from '@/types/navigation'
 import { Button } from "@/components/ui/button"

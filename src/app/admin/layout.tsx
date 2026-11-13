@@ -4,9 +4,6 @@ import { AdminLayoutClient } from './AdminLayoutClient'
 import { Toaster } from "@/registry/new-york/ui/toaster"
 import { Metadata } from 'next'
 
-export const runtime = 'edge'
-
-
 export const metadata: Metadata = {
   title: 'NavSphere Admin',
   description: 'NavSphere Admin Dashboard',

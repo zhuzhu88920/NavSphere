@@ -1,10 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Standalone build for Cloudflare Pages
-  // Note: Most routes use 'edge' runtime which is compatible with Cloudflare
-  output: 'standalone',
-
-  // Don't fail build on ESLint warnings
+  // Standard build output; @opennextjs/cloudflare adapts .next for Workers.
   eslint: {
     ignoreDuringBuilds: true,
   },
@@ -35,10 +31,9 @@ const nextConfig = {
       }
     ]
   },
-  // Cloudflare Pages configuration
   experimental: {
     serverActions: {
-      allowedOrigins: ['localhost', 'newkit.site']
+      allowedOrigins: ['localhost', 'newkit.site', 'nav.xxl.cc.cd']
     },
     optimizePackageImports: ['lucide-react', 'date-fns', 'lodash']
   }
