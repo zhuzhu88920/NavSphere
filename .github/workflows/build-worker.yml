@@ -3,6 +3,13 @@ name: Build NavSphere Worker bundle
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'src/navsphere/content/navigation.json'
+      - 'src/navsphere/content/navigation-default.json'
+      - 'src/navsphere/content/videos.json'
+      - 'src/navsphere/content/site.json'
+      - 'src/navsphere/content/resource-metadata.json'
+      - '.workbuddy/**'
   workflow_dispatch:
 
 jobs:

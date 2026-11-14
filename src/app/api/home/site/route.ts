@@ -1,9 +1,17 @@
 import { NextResponse } from 'next/server'
-import siteData from '@/navsphere/content/site.json'
+import { getLiveSite } from '@/lib/live-content'
+
+export const dynamic = 'force-dynamic'
 
 export async function GET() {
   try {
-    return NextResponse.json(siteData)
+    const { data, source } = await getLiveSite()
+    return NextResponse.json(data, {
+      headers: {
+        'Cache-Control': 'public, s-maxage=30, stale-while-revalidate=120',
+        'X-Data-Source': source
+      }
+    })
   } catch (error) {
     console.error('Error in site API:', error)
     return NextResponse.json(

@@ -1,18 +1,22 @@
 import { Metadata } from 'next/types'
 import { Container } from '@/components/ui/container'
 import { SubmissionForm } from '@/components/submission-form'
-import navigationData from '@/navsphere/content/navigation.json'
+import { getLiveNavigation } from '@/lib/live-content'
 import { ArrowLeft } from 'lucide-react'
 import Link from 'next/link'
 import { Button } from '@/registry/new-york/ui/button'
 import { NavigationData } from '@/types/navigation'
+
+export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
     title: '网站投稿 - NavSphere',
     description: '向 NavSphere 投稿优质网站，分享好资源'
 }
 
-export default function SubmitPage() {
+export default async function SubmitPage() {
+    const { data: navigationData } = await getLiveNavigation()
+
     return (
         <Container>
             <div className="min-h-screen py-8 px-4">

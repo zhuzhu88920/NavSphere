@@ -1,19 +1,20 @@
+import { cache } from 'react'
 import { NavigationContent } from '@/components/navigation-content'
 import { Metadata } from 'next/types'
 import { ScrollToTop } from '@/components/ScrollToTop'
 import { Container } from '@/components/ui/container'
-import type { SiteConfig } from '@/types/site'
-import navigationData from '@/navsphere/content/navigation.json'
-import siteDataRaw from '@/navsphere/content/site.json'
-
 import { getProcessedData } from '@/lib/data-loader'
+import { getLiveNavigation, getLiveSite } from '@/lib/live-content'
 
-function getData() {
-  return getProcessedData(navigationData, siteDataRaw)
-}
+export const dynamic = 'force-dynamic'
 
-export function generateMetadata(): Metadata {
-  const { siteData } = getData()
+const getData = cache(async () => {
+  const [navigation, site] = await Promise.all([getLiveNavigation(), getLiveSite()])
+  return getProcessedData(navigation.data, site.data)
+})
+
+export async function generateMetadata(): Promise<Metadata> {
+  const { siteData } = await getData()
 
   return {
     title: siteData.basic.title,
@@ -25,8 +26,8 @@ export function generateMetadata(): Metadata {
   }
 }
 
-export default function HomePage() {
-  const { navigationData, siteData } = getData()
+export default async function HomePage() {
+  const { navigationData, siteData } = await getData()
 
   return (
     <Container>

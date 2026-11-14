@@ -1,17 +1,20 @@
+import { cache } from 'react'
 import { VideoContent } from '@/components/video-content'
 import { Metadata } from 'next/types'
 import { ScrollToTop } from '@/components/ScrollToTop'
 import { Container } from '@/components/ui/container'
-import videosData from '@/navsphere/content/videos.json'
-import siteDataRaw from '@/navsphere/content/site.json'
 import { getProcessedData } from '@/lib/data-loader'
+import { getLiveVideos, getLiveSite } from '@/lib/live-content'
 
-function getData() {
-    return getProcessedData(videosData, siteDataRaw)
-}
+export const dynamic = 'force-dynamic'
 
-export function generateMetadata(): Metadata {
-    const { siteData } = getData()
+const getData = cache(async () => {
+    const [videos, site] = await Promise.all([getLiveVideos(), getLiveSite()])
+    return getProcessedData(videos.data, site.data)
+})
+
+export async function generateMetadata(): Promise<Metadata> {
+    const { siteData } = await getData()
 
     return {
         title: `Videos - ${siteData.basic.title}`,
@@ -23,8 +26,8 @@ export function generateMetadata(): Metadata {
     }
 }
 
-export default function VideosPage() {
-    const { navigationData, siteData } = getData()
+export default async function VideosPage() {
+    const { navigationData, siteData } = await getData()
 
     return (
         <Container>
