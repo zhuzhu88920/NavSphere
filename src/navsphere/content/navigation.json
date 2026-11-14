@@ -97,9 +97,9 @@
         },
         {
           "id": "1_bm042",
-          "title": "铁路12306积分延期助手 - 晚点列车实时监控",
+          "title": "铁路12306积分延期助手",
           "href": "https://12306.cjh0613.com/zh/",
-          "description": "",
+          "description": "晚点列车实时监控",
           "icon": "",
           "useDefaultIcon": true,
           "enabled": true
