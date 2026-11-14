@@ -8,7 +8,7 @@ export async function GET() {
     const { data, source } = await getLiveNavigation()
     return NextResponse.json(data, {
       headers: {
-        'Cache-Control': 'public, s-maxage=30, stale-while-revalidate=120',
+        'Cache-Control': 'public, s-maxage=30',
         'Content-Type': 'application/json',
         'X-Data-Source': source
       }

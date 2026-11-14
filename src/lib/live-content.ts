@@ -17,12 +17,22 @@ type CfRequestInit = RequestInit & {
 
 const TTL_SECONDS = 30
 
-function remoteUrl(file: string, bucket: number): string | null {
+function remoteUrl(file: string, bucket: number): { url: string; authorized: boolean } | null {
   const owner = process.env.GITHUB_OWNER
   const repo = process.env.GITHUB_REPO
   const branch = process.env.GITHUB_BRANCH || 'main'
   if (!owner || !repo) return null
-  return `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/src/navsphere/content/${file}?v=${bucket}`
+  const contentPath = `src/navsphere/content/${file}`
+  if (process.env.GITHUB_TOKEN) {
+    return {
+      url: `https://api.github.com/repos/${owner}/${repo}/contents/${contentPath}?ref=${branch}&t=${bucket}`,
+      authorized: true,
+    }
+  }
+  return {
+    url: `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${contentPath}?v=${bucket}`,
+    authorized: false,
+  }
 }
 
 async function loadRemote<T>(
@@ -31,20 +41,22 @@ async function loadRemote<T>(
   validate: (value: unknown) => boolean
 ): Promise<LiveResult<T>> {
   const bucket = Math.floor(Date.now() / (TTL_SECONDS * 1000))
-  const url = remoteUrl(file, bucket)
-  if (!url) return { data: fallback, source: 'snapshot' }
+  const remote = remoteUrl(file, bucket)
+  if (!remote) return { data: fallback, source: 'snapshot' }
 
   try {
+    const headers: Record<string, string> = {
+      Accept: remote.authorized ? 'application/vnd.github.v3.raw' : 'application/json',
+      'User-Agent': 'NavSphere-Worker',
+    }
+    if (remote.authorized) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`
     const init: CfRequestInit = {
       cache: 'no-store',
       signal: AbortSignal.timeout(5000),
-      headers: {
-        Accept: 'application/json',
-        'User-Agent': 'NavSphere-Worker',
-      },
+      headers,
       cf: { cacheTtl: TTL_SECONDS, cacheEverything: true },
     }
-    const response = await fetch(url, init)
+    const response = await fetch(remote.url, init)
     if (!response.ok) throw new Error(`GitHub raw responded ${response.status}`)
     const data = (await response.json()) as T
     if (!validate(data)) throw new Error('Unexpected content shape')
