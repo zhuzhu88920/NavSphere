@@ -124,9 +124,9 @@
         },
         {
           "id": "1_bm156",
-          "title": "Awesome-selfhosted/awesome-selfhosted：可以托管在您自己的服务器上的自由软件网络服务和 Web 应用程序的列表",
+          "title": "Awesome-selfhosted",
           "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-          "description": "",
+          "description": "可以托管在您自己的服务器上的自由软件网络服务和 Web 应用程序的列表",
           "icon": "",
           "useDefaultIcon": true,
           "enabled": true
